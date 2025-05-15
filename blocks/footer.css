@@ -6,5 +6,6 @@
 .footer__copyright {
   display: flex;
   justify-content: center;
-  margin: 60px 668px;
+  margin: 0;
+  padding: 60px 0;
 }
