@@ -19,3 +19,5 @@ The project being reviewed is a webpage designed to show pictures of an indiviua
 This webpage is deployed to Github pages
 
 - [Deployment Link](https://tenshu78.github.io/se_project_spots/index.html)
+
+- [Screen shots and Recording](https://drive.google.com/drive/folders/1momIB_BoX2nwffknRV2hahyK-nATBZAI?usp=sharing)
